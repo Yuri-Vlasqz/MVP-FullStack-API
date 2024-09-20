@@ -1,8 +1,8 @@
 # MVP Full Stack - Backend (API)
 
-Este repositório contém a implementação do back-end do **MVP** (_Minimum Viable Product_) da _Sprint_ de **Desenvolvimento _Full Stack_ Básico** do Curso de Engenharia de Software da PUC-Rio. A API foi construída utilizando `Flask` e o banco de dados foi modelado com `SQLAlchemy`. A parte do front-end pode ser acessada em [link-pendente](https://github.com/).
+Este repositório contém a implementação do back-end do **MVP** (_Minimum Viable Product_) da _Sprint_ de **Desenvolvimento _Full Stack_ Básico** do Curso de Engenharia de Software da PUC-Rio. A API foi construída utilizando `Flask` e o banco de dados foi modelado com `SQLAlchemy`. A parte do front-end pode ser acessada em [MVP-FullStack-Frontend](https://github.com/Yuri-Vlasqz/MVP-FullStack-Frontend).
 
-> O projeto completo consiste em uma aplicação web que permite aos usuários buscar séries e filmes disponíveis em plataformas de _streaming_ de um país específico. além de poder realizar o cadastro, deleção e listagem de programas de TV em um banco de dados local.
+> O projeto completo consiste em uma aplicação web que permite aos usuários buscar séries e filmes disponíveis em plataformas de _streaming_ de um país específico. Além disso, oferece funcionalidades de cadastro, deleção e listagem de programas de TV em um banco de dados local.
 
 ### Principais rotas da API:
 
