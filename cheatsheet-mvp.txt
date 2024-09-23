@@ -1,0 +1,35 @@
+Lista de dados de programa para testes
+
+One Piece
+Série
+21
+Netflix
+Brasil
+1 até 15 e 21
+(qualquer data no formato dd/mm/aaaa)
+https://www.netflix.com/title/80107103
+
+One Piece
+21
+Série
+Crunchyroll
+Brasil
+1 até 21
+dd/mm/aaaa
+https://www.crunchyroll.com/pt-br/series/GRMG8ZQZR/one-piece
+
+The Batman
+Filme
+169
+Prime Video
+Brasil
+dd/mm/aaaa
+https://www.primevideo.com/region/na/dp/amzn1.dv.gti.f50f8c44-66ba-4e83-94bb-82fb40c52159
+
+The Batman
+Filme
+169
+Max
+Brasil
+dd/mm/aaaa
+https://play.max.com/movie/dfa50804-e6f6-4fa2-a732-693dbc50527b
