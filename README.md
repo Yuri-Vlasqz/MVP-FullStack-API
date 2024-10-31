@@ -1,6 +1,6 @@
 # MVP Full Stack - Backend (API)
 
-Este repositório contém a implementação do back-end do **MVP** (_Minimum Viable Product_) da _Sprint_ de **Desenvolvimento _Full Stack_ Básico** do Curso de Engenharia de Software da PUC-Rio. A API foi construída utilizando `Flask` e o banco de dados foi modelado com `SQLAlchemy`. A parte do front-end pode ser acessada em [MVP-FullStack-Frontend](https://github.com/Yuri-Vlasqz/MVP-FullStack-Frontend).
+Este repositório contém a implementação do back-end do **MVP** (_Minimum Viable Product_) da _Sprint_ de **Desenvolvimento _Full Stack_ Básico** do Curso de Engenharia de Software da PUC-Rio. A API foi construída utilizando `Flask`, documentada por `Swagger`, e o banco de dados foi modelado com `SQLAlchemy`. A parte do front-end pode ser acessada em [MVP-FullStack-Frontend](https://github.com/Yuri-Vlasqz/MVP-FullStack-Frontend).
 
 No contexto da crescente variedade de serviços de streaming e a variação de conteúdo de acordo com a localização geográfica, pode ser difícil para os usuários identificar quais programas estão disponíveis em sua região.
 
@@ -51,4 +51,4 @@ No contexto da crescente variedade de serviços de streaming e a variação de c
     flask run --host 0.0.0.0 --port 5000 --reload
     ```
 
-6. Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
+6. Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar a documentação em `Swagger` e o status da API em execução.
